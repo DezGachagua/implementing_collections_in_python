@@ -1,1 +1,1 @@
-# implementing_collections_in_python
+a way of how to implement various collection protocols in Python through tests.
